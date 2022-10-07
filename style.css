@@ -1,0 +1,43 @@
+body {
+    font-family: 'Dangrek', cursive;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.color {
+    color: tomato;
+}
+
+h3 {
+    font-size: 33px;
+    color: cornflowerblue;
+}
+
+p {
+    font-size: 21px;
+    text-align: justify;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 3%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.button {
+    text-decoration: none;
+    background-color: cornflowerblue;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+}
