@@ -7,7 +7,7 @@ h1 {
 }
 
 .color {
-    color: tomato;
+    color: crimson;
 }
 
 h3 {
@@ -26,7 +26,8 @@ section {
 
 .half-width {
     width: 50%;
-    padding-left: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 .half-width img {
@@ -40,4 +41,18 @@ section {
     color: white;
     border-radius: 5px;
     font-size: 16px;
+}
+
+h2 {
+    font-size: 36px;
+    color: tomato;
+}
+
+.link {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
 }
